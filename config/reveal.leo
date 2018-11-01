@@ -342,7 +342,12 @@ make.start()
 
 * [python簡介&amp;歷史](https://mdecp2018.github.io/site-s40723212/content/python%20%E7%B0%A1%E4%BB%8B.html)
 
-* [筆記]()
-</t>
+* [補充](https://mdecp2018.github.io/site-s40723212/content/%E8%A3%9C%E5%85%85.html)
+
+* [cmsimfly](https://github.com/chiamingyen/cmsimfly)操作
+
+* [練習足跡](https://mdecp2018.github.io/site-s40723212/content/%E7%B5%84%E5%93%A1%E6%93%8D%E4%BD%9C%E5%BD%B1%E7%89%87.html)
+
+* [筆記](https://mdecp2018.github.io/site-s40723212/content/%E7%AD%86%E8%A8%98.html)</t>
 </tnodes>
 </leo_file>
