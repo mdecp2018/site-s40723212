@@ -2,8 +2,8 @@
   position: relative;
 }
 header{
-  background: #ccc;
-  padding: 20px;
+  background: #;
+  padding: 0px;
 }
 confmenu
 {
@@ -196,11 +196,12 @@ footer {
 position: fixed;
 bottom: 10px;
 left: 10px;
-height: 70px;
+height:10px;
 background-color: white;
-width: 195px;
+width: 10px;
 }
 body {
-  margin-bottom: 120px;
+	background-image: url(https://ppt.cc/favPzx@.png);
+  margin-bottom: 50px;
 }
 
